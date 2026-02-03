@@ -7,3 +7,4 @@
 - Treball amb ceràmiques, metacrilato, metall i cuir.
 - Aplicacions. Eines d'eficàcia.
 - Aplicacions. Generadors de projectes.
+- Dibuix vectorial.
