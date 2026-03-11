@@ -8,3 +8,8 @@
 - Aplicacions. Eines d'eficàcia.
 - Aplicacions. Generadors de projectes.
 - Dibuix vectorial.
+- Connexió màquina-ordinador amb wifi.
+- Sistema multi-objectes. Treball amb lots.
+- Gravació d’objectes irregulars.
+- Ús del torn per a gravació d’objectes cilíndrics.
+
